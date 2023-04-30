@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Владимир Христофоров](https://up.htmlacademy.ru/ecmascript/20/user/1124561).
-* Наставник: [Александр Конотоп] (https://github.com/sineway).
+* Наставник: [Александр Конотоп](https://github.com/sineway).
 
 ---
 
